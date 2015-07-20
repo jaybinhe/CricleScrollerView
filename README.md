@@ -5,7 +5,7 @@ Overview
 ----------------------------------
 基于ScrollerView进行封装的控件，实现ScrollerView无缝衔接循环轮播。
 
-![github](https://raw.githubusercontent.com/jaybinhe/CricleScrollerView/master/Desktop/CricleScrollerView/CricleScrollerView/CricleScrollerView/screenshots/cricleview.gif)
+![github](https://github.com/jaybinhe/CricleScrollerView/raw/master/CricleScrollerView/screenshots/cricleview.gif)
 
 Usage
 ----------------------------------
